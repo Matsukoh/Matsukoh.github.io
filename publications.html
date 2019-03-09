@@ -28,9 +28,11 @@
     <link rel="stylesheet" href="styles.css" />
     <link rel="stylesheet" href="bootstrap.min.css" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-    <script type="text/javascript" src="https://cdn.rawgit.com/pcooksey/bibtex-js/ef59e62c/src/bibtex_js.js"></script>
+    <!-- <script type="text/javascript" src="https://cdn.rawgit.com/pcooksey/bibtex-js/ef59e62c/src/bibtex_js.js"></script> -->
+    <script type="text/javascript" src="scripts/bibtex_js.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <bibtex src="bibtex/pub_en.bib"></bibtex>
+    <bibtex src="bibtex/pub_jp.bib"></bibtex>
     <script>
         $(function() {
             $("#Fontselector").on("change",function() {
@@ -151,7 +153,7 @@
                                       <div>
                                         <span class="if journal"><em><span class="journal"></span></em>,</span>
                                         <span class="if publisher"><em><span class="publisher"></span></em>,</span>
-                                        <span class="if booktitle">In <em><span class="booktitle"></span></em>,</span>
+                                        <span class="if booktitle"><em><span class="booktitle"></span></em>,</span>
                                         <span class="if address"><span class="address"></span>,</span>
                                         <span class="if month"><span class="month"></span>,</span>
                                         <span class="if year"><span class="year"></span>.</span>
