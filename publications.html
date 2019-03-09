@@ -1,0 +1,198 @@
+<!doctype html>
+<!--
+  Material Design Lite
+  Copyright 2015 Google Inc. All rights reserved.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      https://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License
+-->
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="A portfolio template that uses Material Design Lite.">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <title>Kohei Matsumoto</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en">
+    <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.grey-pink.min.css" />
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="bootstrap.min.css" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <script type="text/javascript" src="https://cdn.rawgit.com/pcooksey/bibtex-js/ef59e62c/src/bibtex_js.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <bibtex src="bibtex/pub_en.bib"></bibtex>
+    <script>
+        $(function() {
+            $("#Fontselector").on("change",function() {
+            var font = $("#Fontselector option:selected").text();
+            console.log(font);
+        
+            $('.title.fonters').each(function() {
+                $(this).css("font-family",font);
+            });
+            }); 
+        });   
+        function reset() {
+            $("select").each(function () {
+                localStorage.setItem($(this).attr("id"),"");
+                $(this).val("");
+            }); 
+            $("#searchbar").val("");
+            $("#searchbar").trigger('change');
+        }
+    </script>
+    <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css"> -->    
+</head>
+
+<body>
+    <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
+        <header class="mdl-layout__header mdl-layout__header--waterfall portfolio-header">
+            <div class="mdl-layout__header-row portfolio-logo-row">
+                <span class="mdl-layout__title">
+                    <div class="portfolio-logo"></div>
+                    <span class="mdl-layout__title">Kohei Matsumoto</span>
+                    <span class="mdl-layout__title2">Ph.D. Student</span>
+                </span>
+            </div>
+            <div class="mdl-layout__header-row portfolio-navigation-row mdl-layout--large-screen-only">
+                <nav class="mdl-navigation mdl-typography--body-1-force-preferred-font">
+                    <!-- <a class="mdl-navigation__link" href="index.html">Portfolio</a> -->
+                    <a class="mdl-navigation__link" href="index.html">Biography</a>
+                    <a class="mdl-navigation__link" href="projects.html">projects</a>
+                    <a class="mdl-navigation__link is-active" href="publications.html">Publications</a>
+                </nav>
+            </div>
+        </header>
+        <div class="mdl-layout__drawer mdl-layout--small-screen-only">
+            <nav class="mdl-navigation mdl-typography--body-1-force-preferred-font">
+                <!-- <a class="mdl-navigation__link is-active" href="index.html">Portfolio</a>
+                <a class="mdl-navigation__link" href="blog.html">Blog</a>
+                <a class="mdl-navigation__link" href="about.html">About</a>
+                <a class="mdl-navigation__link" href="contact.html">Contact</a> -->
+                <a class="mdl-navigation__link" href="index.html">Biography</a>
+                    <a class="mdl-navigation__link" href="projects.html">projects</a>
+                    <a class="mdl-navigation__link is-active" href="publications.html">Publications</a>
+            </nav>
+        </div>
+        <main class="mdl-layout__content">
+            <div class="mdl-grid portfolio-max-width">
+
+                <div class="mdl-cell mdl-cell--12-col mdl-card mdl-shadow--4dp">
+                    <!-- <div class="mdl-card__title">
+                        <h2 class="mdl-card__title-text">Publication</h2>
+                    </div> -->
+                    <!-- <div class="mdl-card__media">
+                        <img class="article-image" src=" images/loomo_header.png" border="0" alt="">
+                    </div> -->
+
+                    <div class="mdl-grid portfolio-copy">
+                        <h3 class="mdl-cell mdl-cell--12-col mdl-typography--headline">Publication</h3>
+                        <div class="mdl-cell mdl-cell--12-col mdl-card__supporting-text no-padding ">
+                            <div class="container-fluid">
+                                    <div class="searchbar">
+                                        <div style="float: left;">
+                                            <button type="button" class="btn btn-default" onclick="reset()">Reset</button>
+                                        </div>
+                                        <div style="float: left;">
+                                            <select id="authorselectfirst" class="btn bibtex_search bibtex_author" style="border: 1px solid lightgrey;" extra="first" search="author">
+                                              <option value="">Search First Author</option>
+                                            </select>
+                                        </div>
+                                        <div style="float: left;">
+                                            <select id="authorselect" class="btn bibtex_search bibtex_author" style="border: 1px solid lightgrey;" search="author">
+                                              <option value="">Search Author</option>
+                                            </select>
+                                        </div>
+                                        <div style="float: left;">
+                                            <select id="topicselect" class="btn bibtex_search" style="border: 1px solid lightgrey;">
+                                              <option value="">Search Topic</option>
+                                              <!-- Add topic values here -->
+                                              <option value="Example topic">Example Topic</option>
+                                            </select>
+                                        </div>
+                                        <div style="float:inherit;">
+                                            <input type="text" class="bibtex_search form-control" id="searchbar" placeholder="Search publications"><br>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                                <div class="bibtex_structure">
+                                  <div class="group year" extra="DESC number">
+                                        <a href="#top" style="display: inline"><em>(Top of the page)</em></a>
+                                        <div style="padding-bottom:10px;"></div>
+                                        <div class="sort journal" extra="DESC string">
+                                          <div class="templates"></div>
+                                      </div>
+                                  </div>
+                                </div>
+                                
+                                <div id="bibtex_display">
+                                  
+                                  <div class="bibtex_template" style="display: none;">
+                                    <ul> <li>
+                                      <span class="if title">
+                                        <a class="bibtexVar" extra="BIBTEXKEY">
+                                            <span style="text-decoration: underline;" class="title"></span>,
+                                        </a>
+                                      </span>
+                                      <div class="if author">
+                                        <span class="author"></span>
+                                      </div>
+                                      <div>
+                                        <span class="if journal"><em><span class="journal"></span></em>,</span>
+                                        <span class="if publisher"><em><span class="publisher"></span></em>,</span>
+                                        <span class="if booktitle">In <em><span class="booktitle"></span></em>,</span>
+                                        <span class="if address"><span class="address"></span>,</span>
+                                        <span class="if month"><span class="month"></span>,</span>
+                                        <span class="if year"><span class="year"></span>.</span>
+                                        <span class="if note"><span class="note"></span></span>
+                                        <a class="bibtexVar" role="button" data-toggle="collapse" href="#bib+BIBTEXKEY+" aria-expanded="false" aria-controls="bib+BIBTEXKEY+" extra="BIBTEXKEY">
+                                          [bib]
+                                        </a>
+                                      </div>
+                                      <div class="bibtexVar collapse" id="bib+BIBTEXKEY+" extra="BIBTEXKEY">
+                                          <div class="well">
+                                            <pre><span class="bibtexraw noread"></span></pre>
+                                          </div>
+                                      </div>
+                                      <div style="display:none"><span class="bibtextype"></span></div>
+                                    </li></ul>
+                                  </div>
+                                  
+                                </div>
+                                <!-- Latest compiled and minified JavaScript -->
+                                <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+                        </div>
+                    </div>
+                </div>
+
+
+            </div>
+            <footer class="mdl-mini-footer">
+                <div class="mdl-mini-footer__left-section">
+                    <!-- <div class="mdl-logo">Kohei Matsumoto</div> -->
+                    &copy; 2019<script>new Date().getFullYear()>2019&&document.write("-"+new Date().getFullYear());</script> Kohei Matsumoto
+                </div>
+                <div class="mdl-mini-footer__right-section">
+                    <!-- <ul class="mdl-mini-footer__link-list">
+                        <li><a href="#">Help</a></li>
+                        <li><a href="#">Privacy & Terms</a></li>
+                    </ul> -->
+                </div>
+            </footer>
+        </main>
+    </div>
+    <script src="https://code.getmdl.io/1.3.0/material.min.js"></script>
+</body>
+
+</html>
