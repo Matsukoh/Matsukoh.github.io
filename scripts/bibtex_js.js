@@ -1171,7 +1171,8 @@ function authorList(object) {
         var key = tuples[i][0];
         var value = tuples[i][1];
         var array = key.split(" ");
-        var text = array.pop() + ", " + array.join(" ");
+        // var text = array.pop() + " " + array.join(" ");
+        var text = array.shift() + " " + array.join(" ");
         object.append($("<option></option>").attr("value", key).text(text));
     }
 }
