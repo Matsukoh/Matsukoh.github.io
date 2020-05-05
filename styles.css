@@ -199,12 +199,12 @@ h1.YEAR { font-size: 17px; font-weight: bold; display: inline; margin-left:8px;}
     position: relative;
   }
   .timeline-date {
-    width: 12.37%;
+    width: 27.37%;
     float: left;
     margin-top: 22px;
   }
   .timeline-content {
-    width: 75%;
+    width: 63%;
     float: left;
     border-left: 3px #e5e5d1 solid;
     padding-left: 24px;
@@ -215,7 +215,7 @@ h1.YEAR { font-size: 17px; font-weight: bold; display: inline; margin-left:8px;}
     height: 12px;
     background: #6fa0c1;
     position: absolute;
-    left: 75.5px;
+    left: 172.0px;
     top: 27.5px;
     border-radius: 100%;
   }
