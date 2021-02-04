@@ -474,6 +474,7 @@ function BibtexDisplay() {
                         $(this).remove();
                     }
                 });
+                // Japanese support
                 if ( ( newString.match(/^[\u30a0-\u30ff\u3040-\u309f\u3005-\u3006\u30e0-\u9fcf]+$/) )? true : false ){
                     if (i == 0) {
                         newString += author[0].outerHTML;
@@ -496,6 +497,7 @@ function BibtexDisplay() {
             newString = arrayString[0];
             console.log(newString)
             console.log(( newString.match(/[\u30a0-\u30ff\u3040-\u309f\u3005-\u3006\u30e0-\u9fcf]+$/) )? true: false )
+            // Japanese support
             if ( ( newString.match(/[\u30a0-\u30ff\u3040-\u309f\u3005-\u3006\u30e0-\u9fcf]+$/) )? true: false ){
                 for (i = 1; i < searchLength; i++) {
                     if (i + 1 >= arrayString.length) {
