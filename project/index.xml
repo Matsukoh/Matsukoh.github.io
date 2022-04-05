@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Kohei Matsumoto</title>
+    <link>https://matsukoh.github.io/project/</link>
+      <atom:link href="https://matsukoh.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Kohei Matsumoto</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://matsukoh.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://matsukoh.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Co-experience Robot System</title>
+      <link>https://matsukoh.github.io/project/quriana/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://matsukoh.github.io/project/quriana/</guid>
+      <description>&lt;p&gt;This robot system realizes the sharing of experience using an immersive VR display and the 5th generation mobile communication system (5G). The robot is equipped with a 360-degrees video camera and real-time 4K video is transmitted to a remote operator using a large communication capacity of 5G network.&lt;/p&gt;
+&lt;p&gt;By using this system, for example, older people with a disability for their leg can experience like taking a stroll from a remote place with his grandchild through a robot.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Autonomous Tour-Guide Robot System</title>
+      <link>https://matsukoh.github.io/project/qurin/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://matsukoh.github.io/project/qurin/</guid>
+      <description>&lt;p&gt;The purpose of this project is the development of a robot system for substituting Tour-Guide task, especially in a theme park.&lt;/p&gt;
+&lt;p&gt;The feature of this system is QZSS (Quasi-Zenith Satellite System) which is used for localization. QZSS is one of the GNSS (Global Navigation Satellite System) and can achieve centimeter-level measurement via Quasi-Zenith Orbit Satellite.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
