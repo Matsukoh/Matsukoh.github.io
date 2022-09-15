@@ -33,6 +33,14 @@
     </item>
     
     <item>
+      <title>グラフ畳み込み構造を持つ予測状態表現を用いた深層強化学習による移動ロボットナビゲーション</title>
+      <link>https://matsukoh.github.io/publication/matsumoto-rsj-2022/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://matsukoh.github.io/publication/matsumoto-rsj-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mobile Robot Navigation Using Learning-Based Method Based on Predictive State Representation in a Dynamic Environment</title>
       <link>https://matsukoh.github.io/publication/matsumoto-sii-2022/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
@@ -67,6 +75,8 @@
 &lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
 &lt;/ol&gt;
+
+
 
 
 
