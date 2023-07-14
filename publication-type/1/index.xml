@@ -5,7 +5,7 @@
     <link>https://matsukoh.github.io/publication-type/1/</link>
       <atom:link href="https://matsukoh.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Kohei Matsumoto</copyright><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Kohei Matsumoto</copyright><lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://matsukoh.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
@@ -13,42 +13,58 @@
     </image>
     
     <item>
+      <title>群ロボットを活用した照度測定業務省力化システムの提案</title>
+      <link>https://matsukoh.github.io/publication/nishiura-ieiej-2023/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://matsukoh.github.io/publication/nishiura-ieiej-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of ground stiffness using multiple accelerometers on the ground during compaction by vibratory rollers</title>
+      <link>https://matsukoh.github.io/publication/tamaishi-isarc-2023/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://matsukoh.github.io/publication/tamaishi-isarc-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>フローベース生成モデルを利用したオフライン強化学習による動的環境下での移動ロボットナビゲーション</title>
-      <link>https://matsukoh.github.io/publication/matsumoto-2023-1/</link>
+      <link>https://matsukoh.github.io/publication/matsumoto-robomech-2023-1/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://matsukoh.github.io/publication/matsumoto-2023-1/</guid>
+      <guid>https://matsukoh.github.io/publication/matsumoto-robomech-2023-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>公衆5G網を用いた屋外監視移動ロボットシステムの開発</title>
-      <link>https://matsukoh.github.io/publication/danjo-2023/</link>
+      <link>https://matsukoh.github.io/publication/danjo-robomech-2023/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://matsukoh.github.io/publication/danjo-2023/</guid>
+      <guid>https://matsukoh.github.io/publication/danjo-robomech-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>群ロボットを用いた竣工前建築物の照度測定システムの開発</title>
-      <link>https://matsukoh.github.io/publication/nishiura-2023/</link>
+      <link>https://matsukoh.github.io/publication/nishiura-robomech-2023/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://matsukoh.github.io/publication/nishiura-2023/</guid>
+      <guid>https://matsukoh.github.io/publication/nishiura-robomech-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>高精度GNSSを用いた自律移動草刈りロボットの開発 -第三報QZSSとVisual SLAMカメラによる位置推定と経路追従実験-</title>
-      <link>https://matsukoh.github.io/publication/matsumoto-2023-2/</link>
+      <link>https://matsukoh.github.io/publication/matsumoto-robomech-2023-2/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://matsukoh.github.io/publication/matsumoto-2023-2/</guid>
+      <guid>https://matsukoh.github.io/publication/matsumoto-robomech-2023-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>土木工事における地盤剛性評価・安全管理のための分散型センサポッドの開発</title>
-      <link>https://matsukoh.github.io/publication/fukuda-2023/</link>
+      <link>https://matsukoh.github.io/publication/fukuda-robosym-2023/</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://matsukoh.github.io/publication/fukuda-2023/</guid>
+      <guid>https://matsukoh.github.io/publication/fukuda-robosym-2023/</guid>
       <description></description>
     </item>
     
