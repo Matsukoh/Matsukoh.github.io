@@ -5,12 +5,20 @@
     <link>https://matsukoh.github.io/publication/</link>
       <atom:link href="https://matsukoh.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Kohei Matsumoto</copyright><lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Kohei Matsumoto</copyright><lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://matsukoh.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://matsukoh.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>直交ランダム特徴量を用いた予測状態表現に基づく移動ロボットナビゲーション</title>
+      <link>https://matsukoh.github.io/publication/matsumoto-rsj-2023/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://matsukoh.github.io/publication/matsumoto-rsj-2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>群ロボットを活用した照度測定業務省力化システムの提案</title>
