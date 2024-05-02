@@ -14,7 +14,7 @@ organizations:
   url: https://www.kyushu-u.ac.jp/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Kohei Matsumoto is a Assistant Professor at Kyushu University, Japan, and a member of the Real-World Informative Robotics Laboratory. His main research interest is intelligent robotics.
+bio: Kohei Matsumoto is an Assistant Professor at Kyushu University, Japan, and a member of the Real-World Informative Robotics Laboratory. His main research interest is intelligent robotics.
 
 # Interests to show in About widget
 interests:
@@ -132,6 +132,6 @@ email: "matsumoto@ait.kyushu-u.ac.jp"
 highlight_name: true
 ---
 
-Kohei Matsumoto is a Assistant Professor at Kyushu University, Japan, and a member of the [Real-World Informative Robotics Laboratory](https://robotics.ait.kyushu-u.ac.jp/en/). His main research interest is intelligent robotics.
+Kohei Matsumoto is an Assistant Professor at Kyushu University, Japan, and a member of the [Real-World Informative Robotics Laboratory](https://robotics.ait.kyushu-u.ac.jp/en/). His main research interest is intelligent robotics.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
