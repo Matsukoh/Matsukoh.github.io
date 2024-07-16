@@ -9,7 +9,7 @@ authors:
 - Tamaki Nakamura
 - Ryo Kurazume
 date: '2020-01-01'
-publishDate: '2024-04-04T11:05:02.856912Z'
+publishDate: '2024-07-16T07:32:58.648813Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the IEEE/SICE International Symposium on System Integration

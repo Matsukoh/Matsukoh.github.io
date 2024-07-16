@@ -9,7 +9,7 @@ authors:
 - 福田 貴子
 - 池田 義明
 date: '2023-08-01'
-publishDate: '2024-04-04T11:05:03.654842Z'
+publishDate: '2024-07-16T07:32:59.241985Z'
 publication_types:
 - paper-conference
 publication: '*2023年（第41回）電気設備学会全国大会*'

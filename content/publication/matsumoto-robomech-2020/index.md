@@ -9,7 +9,7 @@ authors:
 - 中村 珠幾
 - 倉爪 亮
 date: '2020-05-01'
-publishDate: '2024-04-04T11:05:03.581995Z'
+publishDate: '2024-07-16T07:32:59.180206Z'
 publication_types:
 - paper-conference
 publication: '*日本機械学会ロボティクスメカトロニクス講演会2020*'

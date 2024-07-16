@@ -9,7 +9,7 @@ authors:
 - Tsukasa Okada
 - Ryo Kurazume
 date: '2019-05-01'
-publishDate: '2024-04-04T11:05:02.833627Z'
+publishDate: '2024-07-16T07:32:58.634192Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the IEEE International Conference on Robotics and Automation

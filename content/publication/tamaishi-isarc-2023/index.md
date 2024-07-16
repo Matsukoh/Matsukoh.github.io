@@ -9,7 +9,7 @@ authors:
 - Kohei Matsumoto
 - Ryo Kurazume
 date: '2023-07-01'
-publishDate: '2024-04-04T11:05:02.874498Z'
+publishDate: '2024-07-16T07:32:58.661774Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the International Symposium on Automation and Robotics

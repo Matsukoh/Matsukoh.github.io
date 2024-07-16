@@ -8,7 +8,7 @@ authors:
 - 松本 耕平
 - 倉爪 亮
 date: '2023-03-01'
-publishDate: '2024-04-04T11:05:03.621130Z'
+publishDate: '2024-07-16T07:32:59.213669Z'
 publication_types:
 - paper-conference
 publication: '*第23回ロボティクスシンポジア*'

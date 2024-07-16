@@ -10,7 +10,7 @@ authors:
 - Tamaki Nakamura
 - Ryo Kurazume
 date: '2021-02-01'
-publishDate: '2024-04-04T11:05:02.863086Z'
+publishDate: '2024-07-16T07:32:58.653175Z'
 publication_types:
 - article-journal
 publication: '*ROBOMECH Journal*'

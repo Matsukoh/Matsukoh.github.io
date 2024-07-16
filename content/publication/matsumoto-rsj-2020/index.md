@@ -6,7 +6,7 @@ authors:
 - 安 琪
 - 倉爪 亮
 date: '2020-10-01'
-publishDate: '2024-04-04T11:05:03.587481Z'
+publishDate: '2024-07-16T07:32:59.184936Z'
 publication_types:
 - paper-conference
 publication: '*第38回日本ロボット学会学術講演会*'

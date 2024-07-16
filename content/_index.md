@@ -373,6 +373,7 @@ sections:
         - 2019.11.22-23 ロボット・航空宇宙フェスタふくしま2019
 
         ## Press Releases
+        - [2024.7.2 日刊工業新聞　「ロボ実機なしで自律移動学習　リコーと九大、走行ルート画像からプログラム作成」](https://www.nikkan.co.jp/articles/view/00716842)
         - [2023.8.28 日刊建設工業新聞　「東大などの共同チーム／ＡＩ搭載無人重機で自動土砂運搬実験」](https://www.decn.co.jp/?p=155885)
         - [2023.8.24 日刊工業新聞　「複数の建設ロボが連携　東大など、動的協働システム開発」](https://www.nikkan.co.jp/articles/view/683547)
         - [2023.8.23 RKB　「AI搭載の建設ロボットが自動で土砂運搬　九州大学で実証実験」](https://robotics.ait.kyushu-u.ac.jp/kurazume/private/RKB20230823.png)
@@ -402,6 +403,7 @@ sections:
           - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
             - 2022
             - 2023
+            - 2024
           - IEEE/SICE International Symposium on System Integration (SII)
             - 2024
           - IEEE Transactions of Cognitive and Developmental Systems (TCDS)

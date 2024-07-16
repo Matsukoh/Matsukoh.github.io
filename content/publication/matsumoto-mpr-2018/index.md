@@ -7,7 +7,7 @@ authors:
 - Akihiro Kawamura
 - Ryo Kurazume
 date: '2018-10-01'
-publishDate: '2024-04-04T11:05:02.821474Z'
+publishDate: '2024-07-16T07:32:58.626251Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the Joint Workshop on Machine Perception and Robotics

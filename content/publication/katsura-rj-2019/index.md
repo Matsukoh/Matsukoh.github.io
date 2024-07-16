@@ -8,7 +8,7 @@ authors:
 - Tsukasa Okada
 - Ryo Kurazume
 date: '2019-12-01'
-publishDate: '2024-04-04T11:05:02.845295Z'
+publishDate: '2024-07-16T07:32:58.641495Z'
 publication_types:
 - article-journal
 publication: '*ROBOMECH Journal*'

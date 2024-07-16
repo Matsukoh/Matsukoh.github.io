@@ -9,7 +9,7 @@ authors:
 - ' 松本耕平'
 - ' 西浦悠生'
 date: '2023-07-01'
-publishDate: '2024-04-04T11:05:03.649352Z'
+publishDate: '2024-07-16T07:32:59.237950Z'
 publication_types:
 - report
 publication: '*建築設備と配管工事 2023年7月号, 日本工業出版*'

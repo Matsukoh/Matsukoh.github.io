@@ -7,7 +7,7 @@ authors:
 - Qi An
 - Ryo Kurazume
 date: '2022-01-01'
-publishDate: '2024-04-04T11:05:02.868357Z'
+publishDate: '2024-07-16T07:32:58.657213Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the IEEE/SICE International Symposium on System Integration

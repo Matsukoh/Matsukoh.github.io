@@ -8,7 +8,7 @@ authors:
 - Kazuto Nakashima
 - Ryo Kurazume
 date: '2024-01-01'
-publishDate: '2024-04-04T11:05:02.881342Z'
+publishDate: '2024-07-16T07:32:58.666009Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the IEEE/SICE International Symposium on System Integration

@@ -8,7 +8,7 @@ authors:
 - 石上 智英
 - 岡田 典
 date: '2019-06-01'
-publishDate: '2024-04-04T11:05:03.576454Z'
+publishDate: '2024-07-16T07:32:59.175325Z'
 publication_types:
 - paper-conference
 publication: '*日本機械学会ロボティクスメカトロニクス講演会2019*'

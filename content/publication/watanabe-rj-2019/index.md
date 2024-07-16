@@ -8,7 +8,7 @@ authors:
 - Akihiro Kawamura
 - Ryo Kurazume
 date: '2019-06-01'
-publishDate: '2024-04-04T11:05:02.839752Z'
+publishDate: '2024-07-16T07:32:58.638017Z'
 publication_types:
 - article-journal
 publication: '*ROBOMECH Journal*'

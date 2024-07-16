@@ -5,7 +5,7 @@ authors:
 - 松本 耕平
 - 倉爪 亮
 date: '2023-12-01'
-publishDate: '2024-04-04T11:05:03.679139Z'
+publishDate: '2024-07-16T07:32:59.263375Z'
 publication_types:
 - paper-conference
 publication: '*第24回計測自動制御学会システムインテグレーション部門講演会 SI2023*'

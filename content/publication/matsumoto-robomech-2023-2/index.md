@@ -8,7 +8,7 @@ authors:
 - 小玉 尚人
 - 倉爪 亮
 date: '2023-06-01'
-publishDate: '2024-04-04T11:05:03.644218Z'
+publishDate: '2024-07-16T07:32:59.232517Z'
 publication_types:
 - paper-conference
 publication: '*日本機械学会ロボティクスメカトロニクス講演会2023*'
